@@ -1,0 +1,23 @@
+# Comments are supported
+test_variable="this is a test"
+thumbs_up="\U0001f44d"
+DEVICE_LABEL="Sensor Tree C6"
+CIRCUITPY_WIFI_SSID = "free4all_2G"
+CIRCUITPY_WIFI_PASSWORD = "password"
+CIRCUITPY_WEB_API_PASSWORD = "password"
+CIRCUITPY_WEB_API_PORT = 80
+CIRCUITPY_AIO_USERNAME = "YOUR_ADAFRUIT_IO_USERNAME"
+CIRCUITPY_AIO_KEY = "YOUR_ADAFRUIT_IO_KEY"
+CIRCUITPY_WEB_INSTANCE_NAME = "Plant Stand (nano-C6 4MB)"
+
+#
+# CIRCUITPY_BLE_NAME¶
+# Default BLE name the board advertises as, including for the BLE workflow.
+# 
+# CIRCUITPY_RESERVED_PSRAM¶
+# On boards with Espressif microcontrollers with PSRAM (also called SPIRAM), permanently reserve a portion of PSRAM for use by esp-idf. This storage is removed from the CircuitPython “heap” and is available for allocation by esp-idf routines in the core instead. Generally, only set this to a non-zero value when it is required by a specific core module.
+# 
+# CIRCUITPY_WEB_API_PASSWORD¶
+# CIRCUITPY_WEB_API_PORT¶
+# CIRCUITPY_WIFI_PASSWORD¶
+# CIRCUITPY_WIFI_SSID
