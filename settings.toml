@@ -2,6 +2,7 @@
 test_variable="this is a test"
 thumbs_up="\U0001f44d"
 DEVICE_LABEL="Sensor Tree C6"
+LIGHT_BRIGHTNESS=0.4
 CIRCUITPY_WIFI_SSID = "free4all_2G"
 CIRCUITPY_WIFI_PASSWORD = "password"
 CIRCUITPY_WEB_API_PASSWORD = "password"

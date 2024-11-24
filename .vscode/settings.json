@@ -1,0 +1,11 @@
+{
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingModuleSource": "none",
+        "reportShadowedImports": "none"
+    },
+    "python.analysis.extraPaths": [
+        "{$workspaceFolder}/lib",
+        // "c:\\Users\\tyeth\\.vscode-insiders\\extensions\\joedevivo.vscode-circuitpython-0.1.20-win32-x64\\stubs",
+        // "c:\\Users\\tyeth\\AppData\\Roaming\\Code - Insiders\\User\\globalStorage\\joedevivo.vscode-circuitpython\\bundle\\20231128\\adafruit-circuitpython-bundle-py-20231128\\lib"
+    ],
+}
